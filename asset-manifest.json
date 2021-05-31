@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/star-bucks-clone/static/css/main.a2842e41.chunk.css",
+    "main.js": "/star-bucks-clone/static/js/main.91458089.chunk.js",
+    "main.js.map": "/star-bucks-clone/static/js/main.91458089.chunk.js.map",
+    "runtime-main.js": "/star-bucks-clone/static/js/runtime-main.f78b00ab.js",
+    "runtime-main.js.map": "/star-bucks-clone/static/js/runtime-main.f78b00ab.js.map",
+    "static/js/2.5c920b54.chunk.js": "/star-bucks-clone/static/js/2.5c920b54.chunk.js",
+    "static/js/2.5c920b54.chunk.js.map": "/star-bucks-clone/static/js/2.5c920b54.chunk.js.map",
+    "index.html": "/star-bucks-clone/index.html",
+    "static/css/main.a2842e41.chunk.css.map": "/star-bucks-clone/static/css/main.a2842e41.chunk.css.map",
+    "static/js/2.5c920b54.chunk.js.LICENSE.txt": "/star-bucks-clone/static/js/2.5c920b54.chunk.js.LICENSE.txt",
+    "static/media/3.jpg": "/star-bucks-clone/static/media/3.7ed22180.jpg",
+    "static/media/4.jpeg": "/star-bucks-clone/static/media/4.5282e44a.jpeg",
+    "static/media/5.jpg": "/star-bucks-clone/static/media/5.a9db91ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f78b00ab.js",
+    "static/js/2.5c920b54.chunk.js",
+    "static/css/main.a2842e41.chunk.css",
+    "static/js/main.91458089.chunk.js"
+  ]
+}
