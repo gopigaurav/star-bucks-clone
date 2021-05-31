@@ -76,7 +76,7 @@ function App() {
               <Footer />
             </Fade>
           </Route>
-          <Route exact path="/starBucks-clone">
+          <Route exact path="/star-bucks-clone">
             <Header />
             <HomeScreen />
             <Fade>
