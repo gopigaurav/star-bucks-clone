@@ -44,15 +44,8 @@ function App() {
   return (
     <div className="app">
       <Router>
-      <SocialMediaIcons/>
+        <SocialMediaIcons />
         <Switch>
-          <Route exact path="/">
-            <Header />
-            <HomeScreen />
-            <Fade>
-              <Footer />
-            </Fade>
-          </Route>
           <Route exact path="/account/signin">
             {user ? <Redirect to="/menu" /> : <LoginScreen />}
           </Route>
@@ -76,7 +69,20 @@ function App() {
               <Footer />
             </Fade>
           </Route>
-         
+          <Route exact path="/">
+            <Header />
+            <HomeScreen />
+            <Fade>
+              <Footer />
+            </Fade>
+          </Route>
+          <Route exact path="/starBucks-clone">
+            <Header />
+            <HomeScreen />
+            <Fade>
+              <Footer />
+            </Fade>
+          </Route>
         </Switch>
       </Router>
     </div>
